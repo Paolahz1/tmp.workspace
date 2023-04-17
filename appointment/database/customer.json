@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cus0001",
+    "names": "Juan",
+    "lastNames": "Perez",
+    "email": "juanperez@test.com",
+    "birthDate": "1990-01-01",
+    "customerType": "1"
+  },
+  {
+    "id": "cus0002",
+    "names": "pepa",
+    "lastNames": "Fernandez",
+    "email": "pepafernandez@test.com",
+    "birthDate": "1950-12-25",
+    "customerType": "1"
+  },
+  {
+    "id": "cus0003",
+    "names": "Martha",
+    "lastNames": "González",
+    "email": "marthaken@test.com",
+    "birthDate": "2001-02-17",
+    "customerType": "2"
+  },
+  {
+    "id": "cus0004",
+    "names": "roy",
+    "lastNames": "correa",
+    "email": "correa123@test.com",
+    "birthDate": "1947-09-28",
+    "customerType": "2"
+  }
+]
